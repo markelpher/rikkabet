@@ -4,4 +4,4 @@ RikkaBet é uma bet criada para o entretenimento durante as lives da criadora de
 
 ⚠️ DISCLAIMER
 
-Este não é um projeto sério. Rikka Bet é apenas uma forma de entretenimento durante as transmissões ao vivo e não deve ser confundido com sites de apostas reais. Não acredite em anúncios ou promessas de casas de apostas – se você estiver buscando algo relacionado a apostas reais, este não é o lugar.
+Este não é um projeto sério. RikkaBet é apenas uma forma de entretenimento durante as transmissões ao vivo e não deve ser confundido com sites de apostas reais. Não acredite em anúncios ou promessas de casas de apostas – se você estiver buscando algo relacionado a apostas reais, este não é o lugar.
